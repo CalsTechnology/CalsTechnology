@@ -11,16 +11,16 @@ I'm a passionate software engineer with a strong background in web development, 
 
 ## 🛠️ Technologies & Tools
 
-![JavaScript]
-![HTML5]
-![CSS3]
-![React]
-![Node.js]
-![Python]
-![C]
-![C#]
-![C++]
-![GML]
+- JavaScript
+- HTML5
+- CSS3
+- React
+- Node.js
+- Python
+- C
+- C#
+- C++
+- GML
 
 ## 📫 Get in Touch
 
